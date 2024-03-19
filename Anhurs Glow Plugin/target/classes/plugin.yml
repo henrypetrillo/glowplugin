@@ -1,0 +1,9 @@
+name: AnhursGlowPlugin
+version: 1.0
+main: comeanhur.me.AnhursGlowPlugin
+api-version: '1.20'
+commands:
+  glow:
+    description: "Give yourself a glowing effect"
+
+
